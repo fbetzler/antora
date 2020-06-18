@@ -2,7 +2,7 @@
 :description: Como utilizar o Antora para agilizar o compartilhamento de conhecimento. 
 
 
-# Para que serve o antora
+== Para que serve o antora
 
 O Antora é uma ferramenta especializada no compartilhamento ágil de conhecimento. Usando repositórios de código como por exemplo o github / gitlab como fonte de armazenamento, utiliza a metodologia conhecida como "doc as code". 
 
@@ -10,7 +10,7 @@ Este estilo de documentação visa organizar e democratizar a geração de conhe
 
 Isso garante todo o poder de compartilhamento e colaboração de ferramentas como GIT e a facilidade de busca e organização provido por ferramentas voltadas para a gestão de conhecimento.
 
-# Comece agora a criar o seu conteúdo
+== Comece agora a criar o seu conteúdo
 
 Para gerar conteúdo para sua equipe, basta inicializar um repositório no Git e seguir alguns poucos padrões.
 
