@@ -1,0 +1,24 @@
+= Estruture seu projeto
+
+:description: Como estruturar sua documentação
+
+
+== Por que é importante?
+
+O antora foi feito para gerar automaticamente páginas estáticas advindas de vários repositórios diferentes de forma fácil.
+
+Isso permite que várias equipes diferentes possam produzir conteúdos de forma dinâmica e colaborativa. Além disso todo o conteúdo pode ser mostrado em uma única vitrine.
+
+Seu repositório não precisa ser dedicado para a documentação, porém, é importante que uma estrutura de pastas específicas em seu repositório possa seguir o padrão exigido pela ferramenta.
+
+== Como deve ser a estrutura de pastas?
+
+Como dito anteriormente o seu repositório não precisa ser dedicado para a documentação. É possível usar repositórios até mesmo com códigos, binários ou qualquer outro conteúdo.
+
+Porém, é importante que haja uma pasta dedicada dentro do seu repositório para guardar o conteúdo de sua documentação.
+
+Esta pasta deve serguir a seguinte estrutura:
+
+images::estrutura-pastas.PNG[estrutura de pastas]
+
+Você não vai precisar ter toda esta estrutura, mas é bom já deixar criado para não termos problemas adicionais.
