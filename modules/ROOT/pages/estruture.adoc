@@ -19,6 +19,6 @@ Porém, é importante que haja uma pasta dedicada dentro do seu repositório par
 
 Esta pasta deve serguir a seguinte estrutura:
 
-images::estrutura-pastas.PNG[estrutura de pastas]
+image::estrutura-pastas.PNG[estrutura de pastas]
 
 Você não vai precisar ter toda esta estrutura, mas é bom já deixar criado para não termos problemas adicionais.
