@@ -16,5 +16,4 @@ Para gerar conteúdo para sua equipe, basta inicializar um repositório no Git e
 
 Esses padrões ajudarão a ferramenta a gerar automaticamente a documentação do seu conteúdo de forma organizada e agradável.
 
-
-nao achei gal quero atualizar
+esssa pagina ta ruim
