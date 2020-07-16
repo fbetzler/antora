@@ -22,3 +22,6 @@ Esta pasta deve serguir a seguinte estrutura:
 image::estrutura-pastas.PNG[estrutura de pastas]
 
 Você não vai precisar ter toda esta estrutura, mas é bom já deixar criado para não termos problemas adicionais.
+
+
+esse conteudo pode ser melhorado!!
